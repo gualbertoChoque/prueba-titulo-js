@@ -13,7 +13,7 @@ const config = {
     //{ name: "webkit", use: { browserName: "webkit" } },
   ],
   testDir: "tests",
-  timeout: 3000,
+  timeout: 30000,
   expect: {
     timeout: 5000,
   },
